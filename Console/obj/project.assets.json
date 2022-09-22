@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\paspo\\.nuget\\packages\\": {},
-    "D:\\5_dosye a garde dE tRavay pHR le pRogram\\7_dDk VisualStudio\\NuGetPackages": {}
+    "C:\\Users\\Khayle\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\Console.csproj",
+      "projectUniqueName": "D:\\AJC\\ProjetPokemon\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\Console.csproj",
-      "packagesPath": "C:\\Users\\paspo\\.nuget\\packages\\",
-      "outputPath": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\obj\\",
+      "projectPath": "D:\\AJC\\ProjetPokemon\\Console\\Console.csproj",
+      "packagesPath": "C:\\Users\\Khayle\\.nuget\\packages\\",
+      "outputPath": "D:\\AJC\\ProjetPokemon\\Console\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\5_dosye a garde dE tRavay pHR le pRogram\\7_dDk VisualStudio\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\paspo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Khayle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
