@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Console"
   ],
-  "SelectedNode": "\\Test VS",
+  "SelectedNode": "\\Console\\API_Pokemon.cs",
   "PreviewInSolutionExplorer": false
 }

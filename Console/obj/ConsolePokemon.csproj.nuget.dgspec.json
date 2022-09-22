@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\ConsoleApp1\\ConsolePokemon.csproj": {}
+    "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\ConsolePokemon.csproj": {}
   },
   "projects": {
-    "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\ConsoleApp1\\ConsolePokemon.csproj": {
+    "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\ConsolePokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\ConsoleApp1\\ConsolePokemon.csproj",
+        "projectUniqueName": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\ConsolePokemon.csproj",
         "projectName": "ConsolePokemon",
-        "projectPath": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\ConsoleApp1\\ConsolePokemon.csproj",
+        "projectPath": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\ConsolePokemon.csproj",
         "packagesPath": "C:\\Users\\paspo\\.nuget\\packages\\",
-        "outputPath": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\5_dosye a garde dE tRavay pHR le pRogram\\11_projeNfo\\ProjetPokemon\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\5_dosye a garde dE tRavay pHR le pRogram\\7_dDk VisualStudio\\NuGetPackages"
